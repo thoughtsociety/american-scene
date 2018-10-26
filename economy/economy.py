@@ -126,7 +126,7 @@ dcc.Graph(
             {'x': [1,2], 'y': [3,1]},
 
         ]
-    }, style = {'border':'2px white solid'},
+    },
     className="._dash-undo-redo",
     config={'displayModeBar':False}
 
